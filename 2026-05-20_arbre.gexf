@@ -70,7 +70,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-469.65787" y="-16.808395"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="1" label="Doris Jeannotte">
         <attvalues>
@@ -105,7 +105,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-151.84221" y="408.4486"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="2" label="Marie-Pier Forest">
         <attvalues>
@@ -140,7 +140,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="458.1434" y="-372.3079"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="0" g="189" b="148"/>
       </node>
       <node id="3" label="Virginie Robert">
         <attvalues>
@@ -175,7 +175,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="39.365067" y="353.18988"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="0" g="196" b="255"/>
       </node>
       <node id="4" label="Denis Tanguay">
         <attvalues>
@@ -210,7 +210,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="129.82037" y="589.101"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="5" label="Benjamin Nicolas-Noir">
         <attvalues>
@@ -245,7 +245,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="143.64676" y="-318.06323"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="255" g="136" b="5"/>
       </node>
       <node id="6" label="Marie Luquette">
         <attvalues>
@@ -280,7 +280,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-303.4118" y="193.13371"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="7" label="Laurent Theis">
         <attvalues>
@@ -315,7 +315,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-46.292263" y="252.96149"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="0" g="196" b="255"/>
       </node>
       <node id="8" label="Caroline Lajoie">
         <attvalues>
@@ -350,7 +350,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="503.80264" y="395.48248"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="9" label="Claudia Corriveau">
         <attvalues>
@@ -385,7 +385,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="183.32939" y="496.23016"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="10" label="Mathieu Thibault">
         <attvalues>
@@ -420,7 +420,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="420.1547" y="237.51991"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="211" g="179" b="176"/>
       </node>
       <node id="11" label="Jacinthe Giroux">
         <attvalues>
@@ -455,7 +455,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-357.97098" y="430.44977"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="12" label="Marilyn Dupuis Brouillette">
         <attvalues>
@@ -490,7 +490,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-117.66501" y="-66.91148"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="76" g="70" b="62"/>
       </node>
       <node id="13" label="Linda Gattuso">
         <attvalues>
@@ -525,7 +525,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="617.56165" y="353.96484"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="14" label="Gabrielle Adams">
         <attvalues>
@@ -560,7 +560,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="619.94617" y="-372.16592"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="76" g="70" b="62"/>
       </node>
       <node id="15" label="Annie Savard">
         <attvalues>
@@ -595,7 +595,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="107.91903" y="271.6814"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="16" label="Sabrina Héroux">
         <attvalues>
@@ -630,7 +630,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="341.2113" y="181.12622"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="17" label="Miranda Rioux">
         <attvalues>
@@ -665,7 +665,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-630.2239" y="520.71704"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="76" g="70" b="62"/>
       </node>
       <node id="18" label="Sarah Dufour">
         <attvalues>
@@ -700,7 +700,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="541.04297" y="220.45204"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="19" label="Ariane Bélanger-Fortin">
         <attvalues>
@@ -735,7 +735,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="315.2572" y="-242.4473"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="255" g="136" b="5"/>
       </node>
       <node id="20" label="Vincent Martin">
         <attvalues>
@@ -770,7 +770,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-175.17642" y="27.76213"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="0" g="196" b="255"/>
       </node>
       <node id="21" label="Driss Boukhssimi">
         <attvalues>
@@ -805,7 +805,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-224.24257" y="608.0142"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="255" g="85" b="132"/>
       </node>
       <node id="22" label="Philippe R. Richaree">
         <attvalues>
@@ -840,7 +840,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="622.9663" y="552.263"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="23" label="Nelly Julien">
         <attvalues>
@@ -875,7 +875,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-448.73254" y="-161.28525"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="0" g="196" b="255"/>
       </node>
       <node id="24" label="Carolyn Kieran">
         <attvalues>
@@ -910,7 +910,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-166.65477" y="524.453"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="25" label="Elena Polotskaia">
         <attvalues>
@@ -945,7 +945,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="104.111885" y="86.290375"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="211" g="179" b="176"/>
       </node>
       <node id="26" label="Alejandro González-Martín">
         <attvalues>
@@ -980,7 +980,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-665.0934" y="491.1125"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="27" label="Steve Tremblay">
         <attvalues>
@@ -1015,7 +1015,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="559.5116" y="506.4548"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="28" label="Nathalie Bisaillon">
         <attvalues>
@@ -1050,7 +1050,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-632.44464" y="265.55765"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="29" label="Patricia Marchand">
         <attvalues>
@@ -1085,7 +1085,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-699.55585" y="116.299576"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="0" g="196" b="255"/>
       </node>
       <node id="30" label="Khoi MAI HUY">
         <attvalues>
@@ -1120,7 +1120,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="26.432487" y="10.1932955"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="255" g="85" b="132"/>
       </node>
       <node id="31" label="Dominic Voyer">
         <attvalues>
@@ -1155,7 +1155,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="578.4509" y="8.445377"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="76" g="70" b="62"/>
       </node>
       <node id="32" label="Izabella Oliveira">
         <attvalues>
@@ -1190,7 +1190,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="430.50134" y="31.526693"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="255" g="136" b="5"/>
       </node>
       <node id="33" label="Simon Théberge">
         <attvalues>
@@ -1225,7 +1225,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="273.11423" y="254.93025"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="34" label="Jeanne Bilodeau">
         <attvalues>
@@ -1260,7 +1260,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-67.35975" y="-451.34995"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="0" g="189" b="148"/>
       </node>
       <node id="35" label="Gabrielle Dubuc">
         <attvalues>
@@ -1295,7 +1295,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-24.270668" y="-247.21416"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="36" label="Diane Gauthier">
         <attvalues>
@@ -1330,7 +1330,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-534.95245" y="442.91968"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="37" label="Driss Boukhssimi">
         <attvalues>
@@ -1365,7 +1365,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-242.37125" y="646.1912"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="255" g="85" b="132"/>
       </node>
       <node id="38" label="Manon LeBlanc">
         <attvalues>
@@ -1400,7 +1400,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-464.01746" y="481.47964"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="192" g="192" b="192"/>
       </node>
       <node id="39" label="Geneviève Barabé">
         <attvalues>
@@ -1435,7 +1435,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-320.63724" y="49.356667"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="40" label="Valériane Passaro">
         <attvalues>
@@ -1470,7 +1470,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-218.53201" y="356.41245"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="41" label="Sandrine Michot">
         <attvalues>
@@ -1505,7 +1505,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="130.35814" y="333.72348"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="42" label="Sophie René de Cotret">
         <attvalues>
@@ -1540,7 +1540,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-282.94135" y="561.9547"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="115" g="192" b="0"/>
       </node>
       <node id="43" label="Hassane Squalli">
         <attvalues>
@@ -1575,7 +1575,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-10.020971" y="510.6309"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="0" g="196" b="255"/>
       </node>
       <node id="44" label="Lucie DeBlois">
         <attvalues>
@@ -1610,7 +1610,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="58.7405" y="603.29944"/>
-        <viz:color r="238" g="121" b="147"/>
+        <viz:color r="255" g="136" b="5"/>
       </node>
       <node id="45" label="Nadine Bednarz">
         <attvalues>
@@ -1645,7 +1645,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="278.40558" y="540.66614"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="46" label="Virginie Houle">
         <attvalues>
@@ -1655,7 +1655,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-501.85873" y="308.22714"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="47" label="Marie-Pier Goulet">
         <attvalues/>
@@ -1684,7 +1684,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="481.8957" y="593.0735"/>
-        <viz:color r="192" g="192" b="192"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
       <node id="51" label="Roberta Mura">
         <attvalues/>
@@ -1863,6 +1863,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="-570.7241" y="385.43164"/>
+        <viz:color r="76" g="70" b="62"/>
       </node>
       <node id="80" label="Laurie Bergeron">
         <attvalues>
@@ -1897,7 +1898,7 @@
         </attvalues>
         <viz:size value="10.0"/>
         <viz:position x="231.44626" y="-185.2702"/>
-        <viz:color r="63" g="177" b="125"/>
+        <viz:color r="223" g="137" b="255"/>
       </node>
     </nodes>
     <edges>
