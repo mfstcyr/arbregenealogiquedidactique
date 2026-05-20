@@ -1,0 +1,1979 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<gexf xmlns="http://gexf.net/1.3" version="1.3" xmlns:viz="http://gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://gexf.net/1.3 http://gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2026-05-20">
+    <creator>Gephi 0.10.1</creator>
+    <title></title>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="nom" title="nom" type="string"/>
+      <attribute id="poste" title="poste" type="string"/>
+      <attribute id="université" title="université" type="string"/>
+      <attribute id="difficultés scolaires en mathématiques" title="difficultés scolaires en mathématiques" type="boolean"/>
+      <attribute id="transition" title="transition" type="boolean"/>
+      <attribute id="évaluation" title="évaluation" type="boolean"/>
+      <attribute id="formation" title="formation" type="boolean"/>
+      <attribute id="pratiques enseignantes" title="pratiques enseignantes" type="boolean"/>
+      <attribute id="matériel de manipulation" title="matériel de manipulation" type="boolean"/>
+      <attribute id="résolution de problème" title="résolution de problème" type="boolean"/>
+      <attribute id="dimension socioaffective" title="dimension socioaffective" type="boolean"/>
+      <attribute id="preuve" title="preuve" type="boolean"/>
+      <attribute id="modélisation" title="modélisation" type="boolean"/>
+      <attribute id="jeux" title="jeux" type="boolean"/>
+      <attribute id="raisonnement mathématique" title="raisonnement mathématique" type="boolean"/>
+      <attribute id="pensée mathématique" title="pensée mathématique" type="boolean"/>
+      <attribute id="algèbre" title="algèbre" type="boolean"/>
+      <attribute id="algorithmique" title="algorithmique" type="boolean"/>
+      <attribute id="arithmétique" title="arithmétique" type="boolean"/>
+      <attribute id="calcul/analyse" title="calcul/analyse" type="boolean"/>
+      <attribute id="fonction" title="fonction" type="boolean"/>
+      <attribute id="géométrie" title="géométrie" type="boolean"/>
+      <attribute id="probabilité" title="probabilité" type="boolean"/>
+      <attribute id="statistique" title="statistique" type="boolean"/>
+      <attribute id="programmation" title="programmation" type="boolean"/>
+      <attribute id="stim/technologie" title="stim/technologie" type="boolean"/>
+      <attribute id="ia" title="ia" type="boolean"/>
+      <attribute id="langage mathématique" title="langage mathématique" type="boolean"/>
+    </attributes>
+    <nodes>
+      <node id="0" label="Isabelle Atkins">
+        <attvalues>
+          <attvalue for="nom" value="Isabelle Atkins"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-469.65787" y="-16.808395"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="1" label="Doris Jeannotte">
+        <attvalues>
+          <attvalue for="nom" value="Doris Jeannotte"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="true"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="true"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-151.84221" y="408.4486"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="2" label="Marie-Pier Forest">
+        <attvalues>
+          <attvalue for="nom" value="Marie-Pier Forest"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQTR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="458.1434" y="-372.3079"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="3" label="Virginie Robert">
+        <attvalues>
+          <attvalue for="nom" value="Virginie Robert"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdS"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="true"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="true"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="true"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="39.365067" y="353.18988"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="4" label="Denis Tanguay">
+        <attvalues>
+          <attvalue for="nom" value="Denis Tanguay"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="true"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="true"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="true"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="129.82037" y="589.101"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="5" label="Benjamin Nicolas-Noir">
+        <attvalues>
+          <attvalue for="nom" value="Benjamin Nicolas-Noir"/>
+          <attvalue for="poste" value="Doctorant.e"/>
+          <attvalue for="université" value="Ulaval"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="true"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="143.64676" y="-318.06323"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="6" label="Marie Luquette">
+        <attvalues>
+          <attvalue for="nom" value="Marie Luquette"/>
+          <attvalue for="poste" value="Chargé.e de cours"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-303.4118" y="193.13371"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="7" label="Laurent Theis">
+        <attvalues>
+          <attvalue for="nom" value="Laurent Theis"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdS"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="true"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-46.292263" y="252.96149"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="8" label="Caroline Lajoie">
+        <attvalues>
+          <attvalue for="nom" value="Caroline Lajoie"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="503.80264" y="395.48248"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="9" label="Claudia Corriveau">
+        <attvalues>
+          <attvalue for="nom" value="Claudia Corriveau"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="ULaval"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="true"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="true"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="183.32939" y="496.23016"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="10" label="Mathieu Thibault">
+        <attvalues>
+          <attvalue for="nom" value="Mathieu Thibault"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQO"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="true"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="true"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="true"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="420.1547" y="237.51991"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="11" label="Jacinthe Giroux">
+        <attvalues>
+          <attvalue for="nom" value="Jacinthe Giroux"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-357.97098" y="430.44977"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="12" label="Marilyn Dupuis Brouillette">
+        <attvalues>
+          <attvalue for="nom" value="Marilyn Dupuis Brouillette"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="true"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="true"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-117.66501" y="-66.91148"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="13" label="Linda Gattuso">
+        <attvalues>
+          <attvalue for="nom" value="Linda Gattuso"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="true"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="true"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="617.56165" y="353.96484"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="14" label="Gabrielle Adams">
+        <attvalues>
+          <attvalue for="nom" value="Gabrielle Adams"/>
+          <attvalue for="poste" value="Doctorant.e"/>
+          <attvalue for="université" value="UQAR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="true"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="true"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="619.94617" y="-372.16592"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="15" label="Annie Savard">
+        <attvalues>
+          <attvalue for="nom" value="Annie Savard"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="McGill"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="true"/>
+          <attvalue for="statistique" value="true"/>
+          <attvalue for="programmation" value="true"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="107.91903" y="271.6814"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="16" label="Sabrina Héroux">
+        <attvalues>
+          <attvalue for="nom" value="Sabrina Héroux"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="true"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="341.2113" y="181.12622"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="17" label="Miranda Rioux">
+        <attvalues>
+          <attvalue for="nom" value="Miranda Rioux"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-630.2239" y="520.71704"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="18" label="Sarah Dufour">
+        <attvalues>
+          <attvalue for="nom" value="Sarah Dufour"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="true"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="541.04297" y="220.45204"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="19" label="Ariane Bélanger-Fortin">
+        <attvalues>
+          <attvalue for="nom" value="Ariane Bélanger-Fortin"/>
+          <attvalue for="poste" value="Doctorant.e"/>
+          <attvalue for="université" value="Ulaval"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="true"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="315.2572" y="-242.4473"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="20" label="Vincent Martin">
+        <attvalues>
+          <attvalue for="nom" value="Vincent Martin"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdS"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="true"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="true"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-175.17642" y="27.76213"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="21" label="Driss Boukhssimi">
+        <attvalues>
+          <attvalue for="nom" value="Driss Boukhssimi"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAT"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="true"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-224.24257" y="608.0142"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="22" label="Philippe R. Richaree">
+        <attvalues>
+          <attvalue for="nom" value="Philippe R. Richaree"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="true"/>
+          <attvalue for="modélisation" value="true"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="true"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="true"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="622.9663" y="552.263"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="23" label="Nelly Julien">
+        <attvalues>
+          <attvalue for="nom" value="Nelly Julien"/>
+          <attvalue for="poste" value="Doctorant.e"/>
+          <attvalue for="université" value="UdS"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="true"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-448.73254" y="-161.28525"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="24" label="Carolyn Kieran">
+        <attvalues>
+          <attvalue for="nom" value="Carolyn Kieran"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-166.65477" y="524.453"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="25" label="Elena Polotskaia">
+        <attvalues>
+          <attvalue for="nom" value="Elena Polotskaia"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQO"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="true"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="104.111885" y="86.290375"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="26" label="Alejandro González-Martín">
+        <attvalues>
+          <attvalue for="nom" value="Alejandro González-Martín"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="true"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-665.0934" y="491.1125"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="27" label="Steve Tremblay">
+        <attvalues>
+          <attvalue for="nom" value="Steve Tremblay"/>
+          <attvalue for="poste" value="Chargé.e de cours"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="true"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="559.5116" y="506.4548"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="28" label="Nathalie Bisaillon">
+        <attvalues>
+          <attvalue for="nom" value="Nathalie Bisaillon"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="true"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="true"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-632.44464" y="265.55765"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="29" label="Patricia Marchand">
+        <attvalues>
+          <attvalue for="nom" value="Patricia Marchand"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdS"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="true"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-699.55585" y="116.299576"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="30" label="Khoi MAI HUY">
+        <attvalues>
+          <attvalue for="nom" value="Khoi MAI HUY"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAT"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="true"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="true"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="26.432487" y="10.1932955"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="31" label="Dominic Voyer">
+        <attvalues>
+          <attvalue for="nom" value="Dominic Voyer"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="578.4509" y="8.445377"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="32" label="Izabella Oliveira">
+        <attvalues>
+          <attvalue for="nom" value="Izabella Oliveira"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="Ulaval"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="true"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="true"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="430.50134" y="31.526693"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="33" label="Simon Théberge">
+        <attvalues>
+          <attvalue for="nom" value="Simon Théberge"/>
+          <attvalue for="poste" value="Doctorant.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="true"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="273.11423" y="254.93025"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="34" label="Jeanne Bilodeau">
+        <attvalues>
+          <attvalue for="nom" value="Jeanne Bilodeau"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQTR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="true"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-67.35975" y="-451.34995"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="35" label="Gabrielle Dubuc">
+        <attvalues>
+          <attvalue for="nom" value="Gabrielle Dubuc"/>
+          <attvalue for="poste" value="Chargé.e de cours"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-24.270668" y="-247.21416"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="36" label="Diane Gauthier">
+        <attvalues>
+          <attvalue for="nom" value="Diane Gauthier"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAC"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="true"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-534.95245" y="442.91968"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="37" label="Driss Boukhssimi">
+        <attvalues>
+          <attvalue for="nom" value="Driss Boukhssimi"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAT"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="true"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="true"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-242.37125" y="646.1912"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="38" label="Manon LeBlanc">
+        <attvalues>
+          <attvalue for="nom" value="Manon LeBlanc"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="Université de Moncton"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="true"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-464.01746" y="481.47964"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="39" label="Geneviève Barabé">
+        <attvalues>
+          <attvalue for="nom" value="Geneviève Barabé"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-320.63724" y="49.356667"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="40" label="Valériane Passaro">
+        <attvalues>
+          <attvalue for="nom" value="Valériane Passaro"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="true"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-218.53201" y="356.41245"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="41" label="Sandrine Michot">
+        <attvalues>
+          <attvalue for="nom" value="Sandrine Michot"/>
+          <attvalue for="poste" value="Doctorant.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="true"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="true"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="130.35814" y="333.72348"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="42" label="Sophie René de Cotret">
+        <attvalues>
+          <attvalue for="nom" value="Sophie René de Cotret"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UdM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="false"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-282.94135" y="561.9547"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="43" label="Hassane Squalli">
+        <attvalues>
+          <attvalue for="nom" value="Hassane Squalli"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UdS"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="true"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-10.020971" y="510.6309"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="44" label="Lucie DeBlois">
+        <attvalues>
+          <attvalue for="nom" value="Lucie DeBlois"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="Ulaval"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="58.7405" y="603.29944"/>
+        <viz:color r="238" g="121" b="147"/>
+      </node>
+      <node id="45" label="Nadine Bednarz">
+        <attvalues>
+          <attvalue for="nom" value="Nadine Bednarz"/>
+          <attvalue for="poste" value="Professeur.e retraité.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="false"/>
+          <attvalue for="transition" value="true"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="true"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="true"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="278.40558" y="540.66614"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+      <node id="46" label="Virginie Houle">
+        <attvalues>
+          <attvalue for="nom" value="Virginie Houle"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-501.85873" y="308.22714"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="47" label="Marie-Pier Goulet">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="687.6804" y="-24.276188"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="48" label="Eva Puchalska">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="714.4953" y="482.656"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="49" label="Gisèle Lemoyne">
+        <attvalues>
+          <attvalue for="poste" value=""/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-387.43417" y="580.8978"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="50" label="Jean-François Maheux">
+        <attvalues>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="481.8957" y="593.0735"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="51" label="Roberta Mura">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="527.5742" y="489.13672"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="52" label="Bernard Héraud">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-13.427487" y="424.24213"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="53" label="Nicole Nantais">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-45.465675" y="422.4404"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="54" label="Steven Boyer">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="191.026" y="646.22784"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="55" label="Stéphane Cyr">
+        <attvalues>
+          <attvalue for="nom" value="Stéphane Cyr"/>
+          <attvalue for="poste" value="Professeur.e"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-51.29305" y="575.6405"/>
+        <viz:color r="192" g="192" b="192"/>
+      </node>
+      <node id="56" label="Thomas Rajotte">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="358.2991" y="513.18933"/>
+      </node>
+      <node id="57" label="France Caron">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-638.74164" y="603.6195"/>
+      </node>
+      <node id="58" label="Fernando Hitt">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="557.5165" y="311.87125"/>
+      </node>
+      <node id="59" label="Christophe Roiné">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="225.41162" y="42.46489"/>
+      </node>
+      <node id="60" label="Jean Dionne">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-95.126945" y="649.74146"/>
+      </node>
+      <node id="61" label="Guy Groen">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-155.52039" y="597.0389"/>
+      </node>
+      <node id="62" label="Viktor Freiman">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="49.421043" y="233.26912"/>
+      </node>
+      <node id="63" label="Matías Camacho Machín">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-679.048" y="564.65955"/>
+      </node>
+      <node id="64" label="Gisèle Lemoyne">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-494.67786" y="609.96027"/>
+      </node>
+      <node id="65" label="Louise Poirier">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-738.9629" y="438.70535"/>
+      </node>
+      <node id="66" label="Daniel Daigle">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-643.30963" y="397.32358"/>
+      </node>
+      <node id="67" label="Jérôme Proulx">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="261.3651" y="476.71396"/>
+      </node>
+      <node id="68" label="Gustavo Barallobres ">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="129.27254" y="-21.767303"/>
+      </node>
+      <node id="69" label="Virginie Houle">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="80.62102" y="-91.77466"/>
+      </node>
+      <node id="70" label="Marie-Pier Goulet">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-5.1589227" y="-122.22686"/>
+      </node>
+      <node id="71" label="Louis Charbonneau">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-208.8517" y="488.738"/>
+      </node>
+      <node id="72" label="Fabienne Venant">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="262.1305" y="620.037"/>
+      </node>
+      <node id="73" label="Colette Laborde">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-333.57803" y="658.20435"/>
+      </node>
+      <node id="74" label="Claude Gaulin">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="9.150176" y="648.15967"/>
+      </node>
+      <node id="75" label="Charles Ehresman">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="304.9608" y="656.86755"/>
+      </node>
+      <node id="76" label="Andrée Bastiani">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="25.983765" y="-19.78595"/>
+      </node>
+      <node id="77" label="Marianne Homier">
+        <attvalues/>
+        <viz:size value="10.0"/>
+        <viz:position x="-160.23813" y="-333.37268"/>
+      </node>
+      <node id="78" label="Richard Barwell">
+        <attvalues>
+          <attvalue for="poste" value=""/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-38.04898" y="46.285355"/>
+      </node>
+      <node id="79" label="Caroline Damboise">
+        <attvalues>
+          <attvalue for="nom" value="Caroline Damboise"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAR"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="false"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="true"/>
+          <attvalue for="stim/technologie" value="true"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="-570.7241" y="385.43164"/>
+      </node>
+      <node id="80" label="Laurie Bergeron">
+        <attvalues>
+          <attvalue for="nom" value="Laurie Bergeron"/>
+          <attvalue for="poste" value="Professeur.e"/>
+          <attvalue for="université" value="UQAM"/>
+          <attvalue for="difficultés scolaires en mathématiques" value="true"/>
+          <attvalue for="transition" value="false"/>
+          <attvalue for="évaluation" value="false"/>
+          <attvalue for="formation" value="true"/>
+          <attvalue for="pratiques enseignantes" value="true"/>
+          <attvalue for="matériel de manipulation" value="false"/>
+          <attvalue for="résolution de problème" value="false"/>
+          <attvalue for="dimension socioaffective" value="false"/>
+          <attvalue for="preuve" value="false"/>
+          <attvalue for="modélisation" value="false"/>
+          <attvalue for="jeux" value="false"/>
+          <attvalue for="raisonnement mathématique" value="false"/>
+          <attvalue for="pensée mathématique" value="false"/>
+          <attvalue for="algèbre" value="true"/>
+          <attvalue for="algorithmique" value="false"/>
+          <attvalue for="arithmétique" value="true"/>
+          <attvalue for="calcul/analyse" value="false"/>
+          <attvalue for="fonction" value="false"/>
+          <attvalue for="géométrie" value="false"/>
+          <attvalue for="probabilité" value="false"/>
+          <attvalue for="statistique" value="false"/>
+          <attvalue for="programmation" value="false"/>
+          <attvalue for="stim/technologie" value="false"/>
+          <attvalue for="ia" value="false"/>
+          <attvalue for="langage mathématique" value="false"/>
+        </attvalues>
+        <viz:size value="10.0"/>
+        <viz:position x="231.44626" y="-185.2702"/>
+        <viz:color r="63" g="177" b="125"/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="11" target="0" kind="Avoir dirigé"/>
+      <edge id="1" source="46" target="0" kind="Avoir dirigé"/>
+      <edge id="2" source="24" target="1" kind="Avoir dirigé"/>
+      <edge id="3" source="55" target="1" kind="Avoir dirigé"/>
+      <edge id="4" source="31" target="2" kind="Avoir dirigé"/>
+      <edge id="5" source="32" target="2" kind="Avoir dirigé"/>
+      <edge id="6" source="43" target="3" kind="Avoir dirigé"/>
+      <edge id="7" source="54" target="4" kind="Avoir dirigé"/>
+      <edge id="8" source="9" target="5" kind="Avoir dirigé"/>
+      <edge id="9" source="42" target="6" kind="Avoir dirigé"/>
+      <edge id="10" source="53" target="7" kind="Avoir dirigé"/>
+      <edge id="11" source="52" target="7" kind="Avoir dirigé"/>
+      <edge id="12" source="51" target="8" kind="Avoir dirigé"/>
+      <edge id="13" source="45" target="9" kind="Avoir dirigé"/>
+      <edge id="14" source="4" target="9" kind="Avoir dirigé"/>
+      <edge id="15" source="8" target="10" kind="Avoir dirigé"/>
+      <edge id="16" source="50" target="10" kind="Avoir dirigé"/>
+      <edge id="17" source="49" target="11" kind="Avoir dirigé"/>
+      <edge id="18" source="7" target="12" kind="Avoir dirigé"/>
+      <edge id="19" source="48" target="13" kind="Avoir dirigé"/>
+      <edge id="20" source="31" target="14" kind="Avoir dirigé"/>
+      <edge id="21" source="47" target="14" kind="Avoir dirigé"/>
+      <edge id="24" source="44" target="15" kind="Avoir dirigé"/>
+      <edge id="25" source="50" target="16" kind="Avoir dirigé"/>
+      <edge id="26" source="56" target="16" kind="Avoir dirigé"/>
+      <edge id="27" source="57" target="17" kind="Avoir dirigé"/>
+      <edge id="28" source="58" target="18" kind="Avoir dirigé"/>
+      <edge id="29" source="8" target="18" kind="Avoir dirigé"/>
+      <edge id="30" source="9" target="19" kind="Avoir dirigé"/>
+      <edge id="31" source="59" target="19" kind="Avoir dirigé"/>
+      <edge id="32" source="7" target="20" kind="Avoir dirigé"/>
+      <edge id="33" source="60" target="21" kind="Avoir dirigé"/>
+      <edge id="34" source="7" target="23" kind="Avoir dirigé"/>
+      <edge id="35" source="29" target="23" kind="Avoir dirigé"/>
+      <edge id="36" source="61" target="24" kind="Avoir dirigé"/>
+      <edge id="37" source="62" target="25" kind="Avoir dirigé"/>
+      <edge id="38" source="15" target="25" kind="Avoir dirigé"/>
+      <edge id="39" source="63" target="26" kind="Avoir dirigé"/>
+      <edge id="40" source="4" target="27" kind="Avoir dirigé"/>
+      <edge id="42" source="8" target="27" kind="Avoir dirigé"/>
+      <edge id="43" source="65" target="28" kind="Avoir dirigé"/>
+      <edge id="44" source="66" target="28" kind="Avoir dirigé"/>
+      <edge id="45" source="65" target="29" kind="Avoir dirigé"/>
+      <edge id="46" source="7" target="30" kind="Avoir dirigé"/>
+      <edge id="47" source="60" target="31" kind="Avoir dirigé"/>
+      <edge id="48" source="45" target="32" kind="Avoir dirigé"/>
+      <edge id="50" source="8" target="32" kind="Avoir dirigé"/>
+      <edge id="51" source="50" target="33" kind="Avoir dirigé"/>
+      <edge id="52" source="67" target="33" kind="Avoir dirigé"/>
+      <edge id="53" source="68" target="34" kind="Avoir dirigé"/>
+      <edge id="54" source="59" target="34" kind="Avoir dirigé"/>
+      <edge id="55" source="69" target="35" kind="Avoir dirigé"/>
+      <edge id="56" source="70" target="35" kind="Avoir dirigé"/>
+      <edge id="57" source="64" target="36" kind="Avoir dirigé"/>
+      <edge id="58" source="60" target="37" kind="Avoir dirigé"/>
+      <edge id="62" source="42" target="38" kind="Avoir dirigé"/>
+      <edge id="60" source="60" target="37" kind="Avoir dirigé"/>
+      <edge id="63" source="43" target="39" kind="Avoir dirigé"/>
+      <edge id="64" source="67" target="39" kind="Avoir dirigé"/>
+      <edge id="65" source="71" target="40" kind="Avoir dirigé"/>
+      <edge id="66" source="42" target="40" kind="Avoir dirigé"/>
+      <edge id="67" source="72" target="41" kind="Avoir dirigé"/>
+      <edge id="68" source="4" target="41" kind="Avoir dirigé"/>
+      <edge id="69" source="73" target="42" kind="Avoir dirigé"/>
+      <edge id="70" source="74" target="43" kind="Avoir dirigé"/>
+      <edge id="71" source="60" target="44" kind="Avoir dirigé"/>
+      <edge id="72" source="75" target="45" kind="Avoir dirigé"/>
+      <edge id="73" source="76" target="45" kind="Avoir dirigé"/>
+      <edge id="74" source="20" target="77" kind="Avoir dirigé"/>
+      <edge id="75" source="78" target="77" kind="Avoir dirigé"/>
+      <edge id="76" source="57" target="79" kind="Avoir dirigé"/>
+      <edge id="77" source="59" target="80" kind="Avoir dirigé"/>
+      <edge id="78" source="68" target="80" kind="Avoir dirigé"/>
+    </edges>
+  </graph>
+</gexf>
